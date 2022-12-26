@@ -1,5 +1,4 @@
-<h1 align="center">Hello there 😊👋</h1>
-<h3 align="center">Software developer from India</h3>
+<h1 align="center">I am Kashyap, Blockchain Developer 👨‍💻</h1>
 
 ### Glad to see you here! 😊
 
@@ -7,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="Kashyap Nirmal" /> </p>
 
-- 👋 Hi, I’m Kashyap Nirmal.
-- 🌱 I’m currently learning **Go**.
+- 🌱 I’m currently learning **Go, Cosmos-SDK**.
 - 📫 How to reach me **kashyap.n@knackroot.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -48,6 +46,10 @@
 
 <br>
 
+![Kr-Kashyap's GitHub stats](https://github-readme-stats.vercel.app/api?username=kr-kashyap&show_icons=true&theme=transparent&count_private=true)
+
+ <br>
+  
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr-kashyap&show_icons=true&locale=en&langs_count=3" alt="kashyapnirmal" /></p><br>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kr-kashyap&show_icons=true&locale=en&hide=prs,issues,contribs&count_private=true" alt="kashyapnirmal" /></p><br>-->
