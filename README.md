@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kr-kashyap&label=Profile%20views&color=0e75b6&style=flat" alt="Kashyap Nirmal" /> </p>
 
-- 🌱 I’m currently learning **Go, Cosmos-SDK**.
+- 🌱 I’m currently learning and exploring **Go, Cosmos-SDK ,Rust and Cosmwasm**.
 - 📫 How to reach me **kashyap.n@knackroot.com**
 
 <h3 align="left">Connect with me:</h3>
